@@ -1,5 +1,6 @@
 This is a list of 2018 #goals.
 
-1.
-2.
-3.
+1. Do a fork 
+2. Clone said fork 
+3. Push some the fork back 
+4. Pull request SJ 
